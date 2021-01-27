@@ -1,0 +1,33 @@
+img{
+    height: 200;
+    width: 300;
+    
+}
+
+body{
+background: repeating-linear-gradient(
+  45deg,
+  #606dbc,
+  #606dbc 10px,
+  #465298 10px,
+  #465298 20px
+);  
+    
+ text-align: center;
+    
+    
+}
+
+.line{
+    text-decoration-line: overline
+    height: 6px;
+    width: 70px;
+    
+    background-color: firebrick;
+    margin: 8px auto;
+}
+p{
+
+    
+    
+}
